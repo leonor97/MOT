@@ -1,0 +1,6 @@
+crear repositorio con git ignore de node
+Git clone "ruta del git"
+git status
+git add .
+git commit -m"lo que sea"
+git push
